@@ -17,8 +17,8 @@ A simple web app that fetches and displays Pokémon information using the PokeAP
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/devonauts/pokeapi.git
+   cd pokeapi
 Open index.html in your browser:
 You can simply double-click the index.html file or serve it locally.
 ⚡ Example Usage
